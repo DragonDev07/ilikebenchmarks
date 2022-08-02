@@ -38,6 +38,5 @@ Thats all to it!
 
 ## Acknowledgements
 
- - Inspired by LMG Autobench
  - Uses the open source cli tool (NOTE: In no way related to Blender Opendata)
  
